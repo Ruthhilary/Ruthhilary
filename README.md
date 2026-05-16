@@ -1,50 +1,67 @@
-# 👩‍💻 Ruth Hilary — Aspiring AI Engineer
+# 👋 Hi, I'm Ruth Hilary
 
-> *"Building intelligent systems, one line of code at a time."*
+## Aspiring AI Engineer | Real-time Systems | Full-stack Builder
 
----
-
-## 🚀 About Me
-
-I'm a passionate **Aspiring AI Engineer** with a growing love for creating smart, efficient, and beautiful web experiences.  
-I believe code should not only work — it should inspire.
-
-- 🧠 Currently diving deep into **HTML, CSS**,**Python, ML basics & TensorFlow**
-- 🤖 Interested in **AI for the web** — intelligent UIs, chatbots, recommendation systems
-- 🌍 Open to collaborating on **AI + Web** projects, hackathons, or open source
+![Profile Views](https://komarev.com/ghpvc/?username=Ruthhilary&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Ruthhilary?label=Follow&style=social)
 
 ---
 
-## 🛠️ Tech Stack (Learning & Exploring)
+### 🚀 Featured Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌟 Current Focus
-
-- Building responsive, AI-ready web interfaces  
-- Understanding how to integrate **machine learning models** into real-world apps  
-- Contributing to open-source projects that merge **design + intelligence**
+| Project | Stack | Key Achievement |
+|---------|-------|-----------------|
+| [**OpenLiveCaption**](https://github.com/Ruthhilary/OpenLiveCaption) | Whisper, PyQt, FFmpeg | Real-time captions in 47 languages |
+| [**AI Voice Translation Pipeline**](https://github.com/Ruthhilary/AI-Voice-Translation) | LLM, ElevenLabs, FFmpeg | End-to-end voice translation |
+| [**TrackWise**](https://github.com/Ruthhilary/TrackWise) | React, Node, PostgreSQL | OCR receipt capture + analytics |
 
 ---
 
-## 📫 Let’s Connect
+### 🛠️ Tech Stack
 
-- 📧 Email: [akaadouruth@gmail.com](mailto:akaadouruth@gmail.com)  
-- 🐙 GitHub: [@Ruthhilary](https://github.com/Ruthhilary)
+**Languages:** Python, JavaScript, HTML, CSS, SQL
+
+**AI/ML:** OpenAI Whisper, GPT-3.5-turbo, ElevenLabs TTS, Scikit-learn, Tesseract OCR
+
+**Backend:** Node.js, Express, PostgreSQL, FFmpeg
+
+**Frontend:** React, Tailwind CSS, Chart.js
+
+**Tools:** Git, Docker (learning), VS Code
 
 ---
 
+### 📊 GitHub Stats
 
+![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthhilary&show_icons=true&theme=radical)
 
-## ✨ Fun Fact
-
-My first program was a simple `print("Hello, World!")` — but now, I dream in code and want to teach machines to dream too.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthhilary&layout=compact&theme=radical)
 
 ---
 
-> ⚡ *“The best way to predict the future is to build it — with AI.”*
+### 🧠 Currently Learning
+
+- Model optimization (ONNX, quantization)
+- Real-time inference pipelines
+- RAG (Retrieval-Augmented Generation)
+- MLOps basics
+
+---
+
+### 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-akaadouruth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaadouruth@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ruthhilary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthhilary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+
+
+---
+
+### ⚡ Fun Fact
+
+My first `print("Hello, World!")` turned into building AI that speaks 47 languages.
+
+---
+
+> 💡 *"The best way to predict the future is to build it — with AI."*
