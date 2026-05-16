@@ -1,11 +1,50 @@
-- 👋 Hi, I’m @Ruthhilary
-- 👀 I’m interested in code that can eventually display and create efficient and admirizing webs
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on coding projects of any kind whether is creating a businesses storyboar,motherboard etc
-- 📫 How to reach me  Email:akaadouruth@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: The first program I ever wrote was probably a simple ‘Hello, World!’ — but now I can’t stop coding and creating all sorts of projects!
-<!---
-Ruthhilary/Ruthhilary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👩‍💻 Ruth Hilary — Aspiring AI Engineer
+
+> *"Building intelligent systems, one line of code at a time."*
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Aspiring AI Engineer** with a growing love for creating smart, efficient, and beautiful web experiences.  
+I believe code should not only work — it should inspire.
+
+- 🧠 Currently diving deep into **HTML, CSS**,**Python, ML basics & TensorFlow**
+- 🤖 Interested in **AI for the web** — intelligent UIs, chatbots, recommendation systems
+- 🌍 Open to collaborating on **AI + Web** projects, hackathons, or open source
+
+---
+
+## 🛠️ Tech Stack (Learning & Exploring)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Current Focus
+
+- Building responsive, AI-ready web interfaces  
+- Understanding how to integrate **machine learning models** into real-world apps  
+- Contributing to open-source projects that merge **design + intelligence**
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [akaadouruth@gmail.com](mailto:akaadouruth@gmail.com)  
+- 🐙 GitHub: [@Ruthhilary](https://github.com/Ruthhilary)
+
+---
+
+
+
+## ✨ Fun Fact
+
+My first program was a simple `print("Hello, World!")` — but now, I dream in code and want to teach machines to dream too.
+
+---
+
+> ⚡ *“The best way to predict the future is to build it — with AI.”*
