@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruth Hilary
 
-## Aspiring AI Engineer | Real-time Systems | Full-stack Builder
+## Junior AI Engineer | Real-time Systems | Full-stack Builder
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruthhilary&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/Ruthhilary?label=Follow&style=social)
